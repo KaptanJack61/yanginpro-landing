@@ -79,7 +79,7 @@ export default function Features() {
             </span>
           </h2>
           <p className="text-lg text-gray-600">
-            YANGINPRO, binalarınızın yangın güvenliği uygunluğunu analiz etmek için ihtiyacınız olan tüm araçları sunar.
+            Redwall Pro, binalarınızın yangın güvenliği uygunluğunu analiz etmek için ihtiyacınız olan tüm araçları sunar.
           </p>
         </div>
 

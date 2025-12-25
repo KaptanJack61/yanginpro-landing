@@ -39,7 +39,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-gray-300 mb-8 max-w-xl mx-auto lg:mx-0">
-              YANGINPRO ile binaların yangın güvenliği yönetmeliklerine uygunluğunu hızlı ve doğru bir şekilde analiz edin.
+              Redwall Pro ile binaların yangın güvenliği yönetmeliklerine uygunluğunu hızlı ve doğru bir şekilde analiz edin.
               Yapay zeka destekli raporlama ile riskleri minimize edin.
             </p>
 

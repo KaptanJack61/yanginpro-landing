@@ -60,7 +60,7 @@ export default function Contact() {
             </h2>
             <p className="text-lg text-gray-300 mb-8">
               Formu doldurun, uzman ekibimiz sizinle 24 saat içinde iletişime geçsin.
-              YANGINPRO&apos;nun binalarınız için neler yapabileceğini keşfedin.
+              Redwall Pro&apos;nun binalarınız için neler yapabileceğini keşfedin.
             </p>
 
             {/* Contact info */}
@@ -73,7 +73,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-sm text-gray-400">E-posta</div>
-                  <div className="text-white font-medium">info@yanginpro.com</div>
+                  <div className="text-white font-medium">info@redwall.tr</div>
                 </div>
               </div>
               <div className="flex items-center gap-4">

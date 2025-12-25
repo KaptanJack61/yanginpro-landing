@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YANGINPRO | Akıllı Yangın Güvenliği Yönetim Platformu",
+  title: "Redwall Pro | Akıllı Yangın Güvenliği Yönetim Platformu",
   description: "Türkiye'nin lider yangın güvenliği yönetim platformu. Binalarınızın yangın güvenliğini dijital ortamda yönetin, analiz edin ve raporlayın.",
-  keywords: ["yangın güvenliği", "bina yönetimi", "yangın analizi", "yangın merdiveni", "sprinkler", "yangın raporu"],
-  authors: [{ name: "YANGINPRO" }],
+  keywords: ["yangın güvenliği", "bina yönetimi", "yangın analizi", "yangın merdiveni", "sprinkler", "yangın raporu", "redwall"],
+  authors: [{ name: "Redwall Pro" }],
   openGraph: {
-    title: "YANGINPRO | Akıllı Yangın Güvenliği Yönetim Platformu",
+    title: "Redwall Pro | Akıllı Yangın Güvenliği Yönetim Platformu",
     description: "Türkiye'nin lider yangın güvenliği yönetim platformu. Binalarınızın yangın güvenliğini dijital ortamda yönetin.",
     type: "website",
     locale: "tr_TR",
